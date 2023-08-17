@@ -2,3 +2,4 @@ Changes made by Developer 2
 Changes made by Developer 1 modified 
 Changes made to understand .git
 Changes done in Master branch to check
+Modified changes in master branch to test git merge from git hub
